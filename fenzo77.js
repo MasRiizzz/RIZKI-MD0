@@ -986,7 +986,7 @@ message: {
 "mimetype": "image/jpeg",
 "jpegThumbnail": log0 //Gambarnye
 },
-"title": "Lol Lexxy+", //Kasih namalu 
+"title": "Rizki Muhammad Adam", //Kasih namalu 
 "description": "SELF BOT", 
 "currencyCode": "USD",
 "priceAmount1000": "2000",
@@ -1007,7 +1007,7 @@ orderMessage: {
 itemCount : 1,
 status: 1,
 surface : 1,
-message: 'MyMans', //Kasih namalu
+message: 'MyRizki', //Kasih namalu
 orderTitle: 'Bang',
 thumbnail: log0, //Gambarnye
 sellerJid: '0@s.whatsapp.net'
@@ -1145,12 +1145,12 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 > Role User : *${role}*
 ────────────
 ❏ *Info Creator*
-> Name : *Lexxy Official*
-> Nomor : *082279915237*
-> Umur : *18+*
+> Name : *Rizki Muhammad Adam*
+> Nomor : *085876810596*
+> Umur : *15*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Coding*
-> Made in : *Palembang*
+> Made in : *Semarang, Jawa tengah*
 > Nama Asli : *Pebri Pratama*
 ────────────
 ❏ *Info Server*
@@ -1205,12 +1205,12 @@ case 'list': case 'menu': case 'help': case '?': {
                 let kontol = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/Lexxy24/KaguraMD'
+                                    url: 'https://github.com/CariSendiri'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 822-7991-5237'
+                                    phoneNumber: '+62 858-7681-0596'
                                 }
                             },{
                                 quickReplyButton: {
@@ -1228,13 +1228,13 @@ case 'list': case 'menu': case 'help': case '?': {
                                     id: 'hanzo'
                                 }
                             }]
-mans.send5ButImg(m.chat, listmn, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘓𝘦𝘹𝘹𝘺 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, global.thumb, kontol)
+mans.send5ButImg(m.chat, listmn, `© Rizki Muhammad Adam`, global.thumb, kontol)
 }
         	break
 case 'grupbot':
 case 'groupbot':
 case 'botgrup':
-fakey(`https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG`)
+fakey(`https://chat.whatsapp.com/FD7XhDrCw4M0lwovXpIHrh`)
 break
 case 'limit':
 fakey(`*Sisa Limit Anda : ${global.db.users[m.sender].limit}*`)
